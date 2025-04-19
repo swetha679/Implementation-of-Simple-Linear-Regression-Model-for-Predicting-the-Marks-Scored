@@ -17,8 +17,8 @@ To write a program to predict the marks scored by a student using the simple lin
 ```
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
-Developed by: 
-RegisterNumber:  
+Developed by: B R SWETHA NIVASINI
+RegisterNumber:  212224040345
 */
 ```
 
@@ -72,6 +72,43 @@ print("Root Mean Square Error = ",rmse)
 
 ## Output:
 ![simple linear regression model for predicting the marks scored](sam.png)
+
+# Head Values
+![Screenshot 2025-04-19 134759](https://github.com/user-attachments/assets/c419e645-69ee-409b-a554-b0a2a5f5e5fb)
+
+# Tail Values
+
+![Screenshot 2025-04-19 134854](https://github.com/user-attachments/assets/5fd49646-0d70-4bfa-93cb-628c72c5485e)
+
+# Compare Dataset
+
+![Screenshot 2025-04-19 134936](https://github.com/user-attachments/assets/5f8a1cf6-7684-41d8-9518-92439ea59c62)
+
+# Predication values of X and Y
+
+![Screenshot 2025-04-19 135033](https://github.com/user-attachments/assets/bb4a476f-f574-4a81-8442-95b6d2ac7eda)
+
+
+
+
+# Training set
+
+![image](https://github.com/user-attachments/assets/a33492bc-603d-4ca2-a96f-77d1acafb382)
+
+# Testing Set
+
+![Screenshot 2025-04-19 135209](https://github.com/user-attachments/assets/28b5f2bc-7469-41b6-beb9-2c52c52ef07c)
+
+
+# MSE,MAE and RMSE
+![Screenshot 2025-04-19 135246](https://github.com/user-attachments/assets/a6a33c12-b218-413b-a3d2-2259354a2936)
+
+
+
+
+
+
+
 
 
 ## Result:
